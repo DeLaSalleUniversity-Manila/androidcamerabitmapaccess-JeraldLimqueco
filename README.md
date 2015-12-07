@@ -1,3 +1,4 @@
-# androidcamerabitmapaccess-KevinCepria
-androidcamerabitmapaccess-KevinCepria created by Classroom for GitHub
+# androidcamerabitmapaccess
+
+![alt tag](https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-JeraldLimqueco/blob/master/device-2015-12-07-215943.png)
 .
